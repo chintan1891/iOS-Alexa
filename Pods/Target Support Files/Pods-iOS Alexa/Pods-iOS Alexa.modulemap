@@ -1,0 +1,6 @@
+framework module Pods_iOS_Alexa {
+  umbrella header "Pods-iOS Alexa-umbrella.h"
+
+  export *
+  module * { export * }
+}
